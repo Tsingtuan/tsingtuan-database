@@ -1,2 +1,2 @@
 # tsingtuan-database
-database setup of tsingtuan
+database files of tsingtuan
